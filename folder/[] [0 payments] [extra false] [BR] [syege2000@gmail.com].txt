@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: syege2000@gmail.com
+– Verified: false
+– Profile: syege2000
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34.com
+
+.netflix.com	TRUE	/	FALSE	1793648177	flwssn	5f8888e2-11ac-4108-ba13-b83aaae91198
+.netflix.com	TRUE	/	TRUE	1793648177	gsid	56415cf3-4a09-4c5d-84c5-d18c183cc6bb
+.netflix.com	TRUE	/	TRUE	1800434121	NetflixId	ct%3DBgjHlOvcAxK3A3b2wHTz4IwX5gPGD6mHgCdo0ft3wzHjPJ4o73t7yBP9dvjDaz_TLNRr1tsHVgFfbcr-bnja5w6tITX_AeCYcvxVDWFHkej6h2vyoLGQBf1ZJ-2kENpCu-uKvFdZEbey6IlDpKM6W_Bb2HA3Rh14XNOBrB0mTpaqPVs88Nu34MO49tWw0RxIG__khN-iIZeGNDm6PxkkjnB-A1-M3LUpjGijOkMU5fOk9-zXgKOU8Lk1qe4Bj1CGfMSPAd1-Pj5d7333TP5Ph88-pgQ7u10u63zEbeIhpcrSraw_0PPgHa5mTSipP6d4BxNdmevZcdIZ_AuwvDlXaNFhxJ2_jgUNvBWaSm8mg3aMGd_vc0NImkFUgxWRcNaDIgLCZeI3u9sEsp9cxHf73Ccc9JWDjX8SIln3J8kOVpzIEw56idPTXsG8wO5PUJD_XpCPN4AaZ5sekIm29ngFwlBJHj5kOKUk9Bs5LokgDuBinmzm9oydm_q_D3ctpnWbxmhe6B5mdgaadFHMBS8j3mxB7IsDqnAQp69f5bzl9Uh2TX-xjs8Zztsz6e-Xnf-xe54XHGlMZXviXxKhZd0UdjcYBiIOCgzi8MqF94L4l8JpV54.%26ch%3DAQEAEAABABQaYe2FNOOs5ZvDvhAYbQovtOhCslyS5hM.%26v%3D3%26pg%3DU22X3LHXCRA3XBI7PUUWBSMWOE
+.netflix.com	TRUE	/	FALSE	1793648177	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793648177	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800105267	nfvdid	BQFmAAEBEHsKYmTrXORQy-qZ2gmFNL1gLYJhP8saCkBCxgA_ID97V17tvXx9YWN44HAcap8pcsZGeNSbj5bqVOhClsKwBmrGRLyaSLebVmf_CBWqp0wwHxSYJCPqxYb6fZJkFYU2XLK4TIl8TwcJjhPgcWr54xwM
+.netflix.com	TRUE	/	FALSE	1800105276	OptanonAlertBoxClosed	2026-01-16T13:14:36.482Z
+.netflix.com	TRUE	/	FALSE	1800474852	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+20+2026+16%3A54%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1093b039-c1aa-415f-bc5e-7a426b9d61e8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768569318097&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800434121	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9ZiDbTUWEg5Lb-CA1peRmLgUExOGXF5E.%26dt%3D1768898123742

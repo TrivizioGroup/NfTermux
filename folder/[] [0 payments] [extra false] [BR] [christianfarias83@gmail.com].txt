@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: christianfarias83@gmail.com
+– Verified: false
+– Profile: Christian
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34.com
+
+.netflix.com	FALSE	/	FALSE	13444588583000000	OptanonAlertBoxClosed	2026-01-16T15:56:23.527Z
+.netflix.com	FALSE	/	FALSE	13444588667180650	nfvdid	BQFmAAEBEG-MiLPaqqTf3oQ05fnRSr5gVcnMKX2N2eLkSMuU4-lR9QGi-ka1b_ctzCJzysHQqsB62emTTIbtFbAw2lrNkDvxt745_ZeEwQpQnqG48B-CisTZ1K4vtKY1jx93y1a6XTJuPo3l4U4SYDRjoFMD9T8s
+.netflix.com	FALSE	/	FALSE	13463868881000000	NetflixId	ct%3DBgjHlOvcAxLaAwCtNGpyagCiQHob0DBAO4CIOyF3Z8YiwNnrTTDKIqy7yvS_shW8Y1IaujJFJa8tRpayQ2CF0pGg1Wn6Utl6aZfAv6C_neDstAVSCOfXwSxYCqKJvr2hYnPqBAFbD_pNTWht1IHOG-tDDdrb_BwPgUJIZGslJgZ8NSFl-M0QctMciht6XCLx4ScUYZn-5R-szC02GoskZlxbyeT6HxhLlyMlHhwxUJ4iODLdeHehWieRBTprimKBR7kVX-AUUHZ7ujzizGJzriOFyT3OcCTlxEDGqqrr4i-yNafrw1M0OsRa9RHBipocrtfMUQ4vcCYKxxWHRFdMSe3tf5zWeuEzQgH9dWUA9BXgYZSiSs6lTa4RL9YbzTBBIdjLjt8uY5W13KGBotBQzClttkQzqZB5tSnE3oxBrEzkrdbl6-hIHUI4veO879ADAjP3BGfS9tzQgWFtJ5R_GM3w911cDIRguhSVGL2uzJUbvmjGZP3d4dlJuETJHdqJ03UjdlfvSd-zJ0J7l-JbZ2gaEeGisSzgzO7ocQ7vXLwKVQDjalWeOwAZarKIxWeSLIoVeo8UOZ8j3DiJi77D2VqWepNRuqKgHqtS6s7ZDi_Dc5JnE4bjuFRS37wKFs7wfG0wMRgGIg4KDKx9kaQidP2uKbycJA..%26ch%3DAQEAEAABABRau7ELQxuuOktVH-Dw1cg_dcGUcPAQFKQ.%26v%3D3%26pg%3DS32EDO3RNFCTXN2OAHN5D5CYPE
+.netflix.com	FALSE	/	FALSE	13463868879000000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+27+2026+16%3A34%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b172996b-42e3-4f6c-87e7-a0a33885ff65&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768578983999&geolocation=BR%3BRO&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	FALSE	/	FALSE	13463868881000000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQaGt6zCBc1_kcjrAoGJlIjox_FFav8ZUY.%26dt%3D1787859281963
+.netflix.com	FALSE	/	FALSE	13432343677520244	flwssn	fc0e2c8b-945a-426c-bc69-dcefc904ae24
+.netflix.com	FALSE	/	FALSE	13432419279296962	gsid	7a3bc3b7-8873-43c9-ac73-5a3847f46927
+.netflix.com	FALSE	/	FALSE	13466892877520328	nap	BgjvvevcAxJJowUHnnlOfIyu9k2UmJ_GYPeVUZU5tZPisMMeRw8uwcLeWQ0oO3vf4RQ-Bl9flbJtnU0PbYIXg9Plh5AOt4kmWcAMBsYmNtIsaxgGIg4KDIBmkjZHKPpmWwii1A..
+.netflix.com	FALSE	/	FALSE	13432334686318982	profilesNewSession	0

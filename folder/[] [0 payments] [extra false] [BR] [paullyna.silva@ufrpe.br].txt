@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: paullyna.silva@ufrpe.br
+– Verified: false
+– Profile: paullyna.silva
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: Admin  @ logslead
+
+.netflix.com	TRUE	/	TRUE	1819481488	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKqAydhdFgXnjNgMTxgONnfiraR7PFDPMf6AO6B2VZfKEXPQTAvIj7njXv8cgNJOIo66bs1l01UWu34SEi_ryWTn1wqInTo5Wne6Czpak6YqFs9mDDawZuRawcBCOq_O871j8U2noNbSlN7pVyd-d-RZ9nJby08fHhOnmzqB6eWtYcpPDucJIdPERNyLIMePKLkoLYnpeEhqNRqzcxYwvD9Smi5VJ0074RG8-FK2aDeElYXIutw0vLRFZXIDCtZsFHP1U0m1c9kxSuLwSQ6bBxgRw0r18r_DoInYrWVnWofGeUTJkxNpXg6goXHNxWZf9EXsIkzjJ5xUE9lE0OOcmdSMDC_xxNHAVrdR7HB0Xdv8eIirUknpXmzY5vSHepbwMmBnSddTUWjQfCUs89BP7lFVnkkTnkI5Y2o30jx18L_kFspC26q7O0PhJbkc3z506jyJ6XtJLsD_6xDp-b1ybbjBSqsZPEGyDKxnZiv5tFo5sxmHtCA5PRCFhYwzbRg7NVMCEmt3hJQ_npid9RkoH_dRPeIJqX4MIF-tMpqqnlr43QT8261kxceqX_BRRgGIg4KDL39PNAOyaAPPZf--A..%26pg%3DQQ32YSF2BRATRCKOR7KO7MZ7KE%26ch%3DAQEAEAABABQhLJmUZ5CqQl_SwOU5AC_G_hQSyDvkRqo.
+.netflix.com	TRUE	/	TRUE	1819481488	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtZ4oMOsnr4Ez4-U25c0B8aMXzE3KqCuY.%26dt%3D1787945486580
+.netflix.com	TRUE	/	TRUE	1793648177	gsid	55f3224f-7d07-4255-b83d-ac03eeae6ec6
+.netflix.com	TRUE	/	TRUE	1822505488	nap	BgjvvevcAxJJ4myI5oEyQguJeF6pyFrkX_O_hwBepLVuQ0lgjrHYaEk2t9d4bd3rFj-hW8UJOy5idpWoqKa8spSC8PjeGtNckEPAlBD7OU-T3RgGIg4KDBMqFf2B0TQa7zp2Bw..
+.netflix.com	TRUE	/	FALSE	1819481488	nfvdid	BQFmAAEBEEwCleI0rllDebWHM6-xA2tgHWTDrs7qcEik9Gn-ZqKMZ9kBua39cjx-TZGyMW1VN_EehhnEpSbU9SojjoVK4Bqim_MYSzMpNpKaVTTUVtvTFR40M6WSno5kPLlww7zYIO8eAzOwiJtlODIvOYZJY0VL
+.netflix.com	TRUE	/	FALSE	1819481505	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+28+2026+21%3A31%3A45+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=48ee8bb6-3842-496d-ac80-fe9f081cdd5b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fma-en%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1787945477614
+.netflix.com	TRUE	/	FALSE	1793648177	flwssn	656eb02f-9f96-481e-b57f-519b06efc425
+.netflix.com	TRUE	/	FALSE	1795721503	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1795721503	netflix-sans-normal-3-loaded	true

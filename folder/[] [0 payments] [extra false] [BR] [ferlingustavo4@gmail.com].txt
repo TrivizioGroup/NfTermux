@@ -1,0 +1,20 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: ferlingustavo4@gmail.com
+– Verified: false
+– Profile: ferlingustavo4
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: t.me/+0gKPzmA3a6RlMmFh
+
+.netflix.com	FALSE	/	FALSE	13461298323000000	OptanonAlertBoxClosed	2026-07-29T01:32:03.963Z
+.netflix.com	FALSE	/	FALSE	13461298357633572	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA3nTRrUKdHWAK2Gd2doHWWOICbWDTc0lrgFItG46G5YnqSDiJiEkH2piiQu_b_71hSqDLz26ItCFrK0lkKdhtXokVVqUDiYMXcpr3JFoDDwnVX5pveDdoiZqFBaMr99g-mE-kQW-v5KhiUNXvrxh1tvWq9jdDWaoyDbJSneuQ1_55JZHW9BBzCzwSRx1Tr3B7FS5yBNTwwMLufNGwVsYiw8ge_TWY25831Gvtm0q5z6BtcT6eSjUnburhIgryIB8tj_34bU5bVuidfyCXxoIKWo45w5yTIXyBa0gqNpRLQQRpBF5Iv2ivRxAJf0-qIsORjm_w3E2Gd_VyyP_iKkXty1Kc_jlpjUNB27iGSmpWR8R5_aNSPKb4YwlFDA6ug1WGgfMvLv6MnaQzWPg-eePv56cXPT8zrkBIDE234ot5jmBP2XlX4NoSbUlzmft26KS82TKoQQi8D3-LnMfGgm82E7Zk8Gn2mRMXgLCJyYjMGDF7OAoyL2hMUi-8C2NOrsrHC3G3fUzX8NNmx_inxG5wYYHQowIkpWcT0e44HWWapMlzhgGIg4KDPcy-9c_wWX8ZgPXlA..%26pg%3DZU3SDJJMYZEXFP5UAU2PIEVSJQ%26ch%3DAQEAEAABABQB2vMhmrfZStkA3-hKAwnmpU_iJy1ROQQ.
+.netflix.com	FALSE	/	FALSE	13461298357633432	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5v84GW7G1UtSrZiCjxKNrp6_aZ8Or10o.%26dt%3D1785290068683
+.netflix.com	FALSE	/	FALSE	13461298357633210	nfvdid	BQFmAAEBEBKSX0dIiYUx8v2ycd2mxEBggBo9WheXIGFWC7zd--yfjvs1vuF0hM2CnBD-N1shcp5m8RGyO_wKKFL1sqK2UMaQfrHtxRIW7K6tavfNI0fZgtKCBiJVu48k1kpuSPGvkJFQw-cx0mNJmwHvULDW5IxI
+.netflix.com	FALSE	/	FALSE	13461298525000000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+28+2026+22%3A35%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ded792a1-bb94-4cf7-ace6-147f2e3e4f70&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1785288724390&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	13437538524584992	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	13437538524584874	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,21 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: rianwatanabe.br@onelifebabe.com
+– Verified: false
+– Profile: A
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: russia34link.com
+
+.netflix.com	TRUE	/	FALSE	1793648177	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLuAntMjUyYXeqw5SbhmwpVdaeYy9V-hG-hY2lsuyIY3xicVI756t5dHVf__Dum2Km8iDOqXcGbH8dbno6pUFAVMA6dpDtUi-oZdROLtK5DSgC3Qdee-9b859skbKGixzstCUh2cceBbdZcd-GUNkjGYbL1udYNjBmfSTrEAeHOJOAPUclesP1kKVi9JD3guVXWCaTa1gLsWqmkD1ky___cT7txql6gAwssyST2R0wfIe-KD03TmrqJtyQNtGKnyveSc75zCwmGQvzdiDxEFy-4wHKsBJDnSiqjUR3GlJUOmbjM1a_54wa_3F6k50RK1vRq7S3SUrDBVb1X2UrD-TCSoF0otVvXbpfvvHg8WCs5kmVy1e7dqkquCd2sJOJkr7F3tMIJzcPWXH6axj8OiDYVmvBH-WtuE0SpfoPYZNikJ6IStr3InmCe7hmAVL9o1PVi2bsSh8zz88WWXz0LucCSRUedBpqB7UzdGXWiW2CqCxgGIg4KDIPYa2gExSIDkL4BRw..%26pg%3DST7BNTCYDZAN5A2RPIZ7466ZEY%26ch%3DAQEAEAABABQ69-YRtCrpFnue9afLVKb0ihCL7WPjxAo.
+.netflix.com	TRUE	/	FALSE	1793648177	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+20%3A18%3A31+GMT%2B0700+(Western+Indonesia+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9964e9e-eff4-4165-967e-a1ca66de84aa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1793648177	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJ5KmiaXCDRN-ZnynKWl7XeDCmjr8FHvQ.%26dt%3D1767359927871
+.netflix.com	TRUE	/	FALSE	1793648177	flwssn	2c77d9de-d442-4569-b0b6-0c83b76e41ec
+.netflix.com	TRUE	/	FALSE	1793648177	gsid	0f8f1c6f-7b40-4d42-b22f-acc7fa1891b3
+.netflix.com	TRUE	/	FALSE	1793648177	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793648177	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793648177	nfvdid	BQFmAAEBEB1pYne4sCPxCbNNRzzAzZ1g1MHOqJm3-DgTKeI6RQWUCLjo0DeljEa5LegNo9eSSCIHHCJMT_YzxqmUGQSUjKad17Ggg-a4fiyJKqc06PGlvtyhILeMKlHGDsLr43YcdSo9T6v6vP_DtUlpC_-7Iw1V

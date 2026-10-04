@@ -1,0 +1,18 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: guilhermemendesnovais34@gmail.com
+– Verified: false
+– Profile: guilhermemendesnovais34
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: t.me/+0gKPzmA3a6RlMmFh
+
+.netflix.com	TRUE	/	FALSE	1799150677	OptanonAlertBoxClosed	2026-01-05T12:04:37.675Z
+.netflix.com	TRUE	/	FALSE	1799150700	nfvdid	BQFmAAEBEMgDLXu4kyNUyEilrS1hyxVgB0GXaAZEjVM5NIzl0OrQkU89d64y20vo0s36TcVz1CF87YTyUMMw8PHMAl9Gp2ZgmPSaqPYoZ12OzN1Ub2_EUaAQP5xOrH3K8XgeQBz3goLUZR3q3AX8RqjJf_D-8gXh
+.netflix.com	TRUE	/	FALSE	1799151017	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+09%3A10%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e89b794f-8fd7-4f21-81f8-6909a4ab6045&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799151015	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AqDCVe7lS-52xG_CwBIbphSgz7HsORfJ-O0JZG0svbBptzm6FBHK0oW-WpLJr5eOy0rNa-kwRwb7Jqrk4551wUP42eVLUo7AU0BislauTuPHbMoDx9V9HH76G4eaPOWzA0R15eyG7lS9lpmp5IGkK9Li8ID6XYgrni541ap78G7fIgpG-AjXbNRSQ9g8RN_VoZCxw_aw1kJXCv-mPXZX4BftOhnmwCitqbwkl7Fjj3XrbPYuTD4Ttfd7SNrj_-SliBp7SkScWKSrWZrc7M8vb-Pq72zByJIiArFMrRtZQ-wzeHn4cxabnTDWGIcgm8Z21HAdZQMZDmq9RG8p0ZmAOJTDTv44j1bwqmSSjfo01dSsp5zSRu_Jv0QnexKg8pUybVESoL-wAaZ5d6j_Gf428xigh2jNBICzG-pi0voVF6Il8sK4dPlkZ6S9oeBAfA6z9qxnUDMPF7uekAP22iWS2YrvEf6R_ryiQ1eCZfTOKWsVKMNLERgGIg4KDP7URHNegfIjdZbeSg..%26pg%3DO6LT4KCF4VCJDHCXT3QXQ4ER7U%26ch%3DAQEAEAABABQ2WafWym3xBgZQw2vsENnQVfR-cfoAci4.
+.netflix.com	TRUE	/	TRUE	1799151015	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTldkIJuy3o4I6rjQmwP8z3sBqtLDEtXzs.%26dt%3D1767615089767

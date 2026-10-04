@@ -1,0 +1,25 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: peritabiancavossarquiteta@gmail.com
+– Verified: false
+– Profile: Bianca\x20voss
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: Adm @logslead
+
+.netflix.com	TRUE	/	FALSE	1816735221	OptanonAlertBoxClosed	2026-07-28T00:40:21.723Z
+.netflix.com	TRUE	/	FALSE	1816735314	nfvdid	BQFmAAEBEI5Vxa4Dhp8Flo3xMKqCl9tgbK0AMvbzHYOWUe--fQwRDt8_-ln5rPXMZp_mrYRZs2mMTaOUmKI1nbDjdOmlZe-G2kjJXgGcwpjupuCPdPJXw8AAoYv3Tr_APbNCnISP1olP0RYksnx4WDie-EMTF8pV
+.netflix.com	TRUE	/	TRUE	1819806548	dsca	true
+.netflix.com	TRUE	/	TRUE	1793648177	gsid	fd4fbea8-1398-4843-b8f8-faf4accb72f1
+.netflix.com	TRUE	/	FALSE	1818161673	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+13+2026+09%3A54%3A33+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d612c195-9aec-459b-b9b0-7c71b9413681&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1785199222310&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1794401673	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794401673	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794401673	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1821224175	nap	BgjvvevcAxJJrhZxxD7PvEDmN-2vPDtJvcKrQitqbT_bOi3y1KKVNpQo-EBclS--J61TzaQ5TK4NPu5gi8BzGGfEc_xFJfF4rBGKggsKZCznNxgGIg4KDJt6c5g-VCnpP38_Dw..
+.netflix.com	TRUE	/	TRUE	1818207454	NetflixId	ct%3DBgjHlOvcAxKSBEJwGp-FqHlszN5VF-qZMMyNiIi20V19lvxxbMfcZ3vPzd4dhuZdLT3mnXsC8myYfuPEywkRA8yxMDjzpCNFUBuaNm306aYZPBKI7PQyA7cyfAAdmAot92K3XWR43WfCz6i14hyBz6U9Q9lczfW4jLQjkBjFuQGQXj6kz8WQoECsjvp46RLKTAGntGcbyHnoV5jxDQ2DyqYYfuGjc-3wwGqjwjV-Yx2dl9ia12Nv5aY9Dd1ewKE6To8mW9Zeejc43hjdCFu_Jel2-rAjgZo3SnW9PCOniSWDjTOWlFh-0xBDTiTkLtkhGvj7EH3xO-xCrAbEFRBT0VaRq20ebYsbrN_X8_IIx7uEQTXJ2vbmRyZ-71rfJXVzdTIXaZDmun77NxlvvWg0y--CH8YO0s80W-M6YUpaZfB8AJi6WfWCyBXfSkJmgchBtSwiU9cdQM8MfsjPLw7Rj6zhtjruGVTHOu107WPiLV7uuig3HbrxX7fhSojoLyO_gW2EiDMhy5pGvxRUs2AH4KpfAu_Esc6OMKyG9ruU_VCZKcWQCFb_d0nt5IIsF4SBXYLDG0ZQx-nu87zpmaQB5ZMEn0W34B80KwbgqOmEjAQuJBPkC2O-HuGjcAieKtLSmyWq5qQVeicz_AMhWMW_QtPBWA2ffBPZupgJjE9SY-a4FsOtt_EotcBBl1rmKUFmknE-0WosrDAR9YmlGAYiDgoMoKFnYXrgqiu6LOAa%26ch%3DAQEAEAABABQFhLFqHnAvf8QnvQpp8V3rv0B2XBNwyXk.%26v%3D3%26pg%3DHKTHNXSUJJHJ7MT2MSFLOOAWOI
+.netflix.com	TRUE	/	TRUE	1818207454	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-RsjbVNnkBzUpPZwmoDliIS71-wRpW9g.%26dt%3D1786929041197
+.netflix.com	TRUE	/	FALSE	1793648177	profilesNewSession	0

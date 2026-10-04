@@ -1,0 +1,22 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: viniciosgaviao5@gmail.com
+– Verified: false
+– Profile: VINI
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: @logslead
+
+.netflix.com	TRUE	/	FALSE	1808860064	OptanonAlertBoxClosed	2026-04-27T21:07:44.155Z
+.netflix.com	TRUE	/	TRUE	1808860120	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA_Z3WNKQC_DMcuLtY-T8fOD-_uL1aJzEdnQqD3oiaBACDGpufM5CDkTRSPU8XpZO9t4cz4UMlRW55Oz1FAyb8zRtZ_rdsX8ZgXNQBNPOqOM_3_11sIwZvdzVs3TFIXgy5Mrbqc2a8ICCAm5L7VsAD_FGCklzrsrs6oY9IqAweOlfXOKqeJL6jTj7m_eTlubOzWBO4PRg7ReQbECV-GHtoqy7EwelVia6LdX3s13hAhHj4Ph4tN7NX9ge9drbPYVCz6KC1tFfkvSWEUrLv2HcvDew9hNQ55_HnMDbGOMNYWgIcVUWJB6CaBxLg3__doGmw1E0jF_gHA_nSzmIbWsUC23CnJfB7SexeT6k-WE9tmrlW_6w-uT_04ReGjxN5erIvBAbHyS9kRRg9tb5S4mPSruHSAId40zWueimp382OyqZ9PGzNK5AADLOhrXUB9guOdW53GZoq0AbGKv_hDsaOkBUvGHd1fpaLAe0BPRCliuCZ4QhC10w9QUmuauWYoK_ns2oxfa-jQNYyva0CqR2kBozJO7RLoJWJSiNQktKGAYiDgoM_I6aWgGfgn80dZP2%26pg%3DHR6EVNN625HTZBUEJZRPKOGKFA%26ch%3DAQEAEAABABRRW95sqirgf6UjvEEHD8Un6r4r0me8UUI.
+.netflix.com	TRUE	/	TRUE	1808860120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFGWpvnXmpQBNZ9md6i3yHhgkZcF4qaJI.%26dt%3D1777324120442
+.netflix.com	TRUE	/	TRUE	1811884120	dsca	true
+.netflix.com	TRUE	/	FALSE	1808860120	nfvdid	BQFmAAEBEEIIbD3nlpRfNPMUMXQ4TWZg3fu1wT3jgH3eqKtmcJw1LOfDesogsC21sxBG3fd3VkrkCsa-pBsgrbuoxZOVWwNzPJcCZhXCiJD0P-8KnL4kff31ql3L_UK5anXFFNIqEX8ziTD7N8VHOLPsbzpJsFSV
+.netflix.com	TRUE	/	FALSE	1808866473	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+19%3A54%3A33+GMT-0300+(Brasilia+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f86f4d5f-501e-4b9f-a419-8f0e4ded2b5c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777324035640&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1793648177	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793648177	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793648177	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

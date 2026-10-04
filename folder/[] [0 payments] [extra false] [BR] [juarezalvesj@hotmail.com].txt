@@ -1,0 +1,19 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Email: juarezalvesj@hotmail.com
+– Verified: false
+– Profile: Seu\x20Juarez
+– Plan: 
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 0
+– Cookies: Cloud WebSite - russia34 . com
+
+.netflix.com	TRUE	/	FALSE	1791550348	OptanonAlertBoxClosed	2025-10-09T12:52:28.896Z
+.netflix.com	TRUE	/	TRUE	1791550378	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AiD99IZH-N47v4GtDmgiB90UlUOPJxzzA03Fv9sTukcARtucqlvTjUJcwUWIIHoZWw2f0ZKrTZf3BOCaeo6wK4Xd5IGFzrIntzrT3WX_s7TeFtZOL8cTDgCLP0J5MXkLBJFU9iEJuG0wsqZ5vFJS3JdCSYhGxahLxj6tI7McpHWX8qGIsUodecF1q6dqnYZnuSR0lgrv302EapHv_8spdPyZ9v7kVHOiF7DfRRD3R2JORhOUVJfaxMBOg_pXrUn2sC9b5V_NN0Ip2uvNw3HVfEvquWM4rn_UKE-_4klUrYk9R_YpiHCjN6My9TD0p7DpjhuDwspg4NFKTTtyKoYmMUEaSycbGIO6D7-AAnzlJ1K6F3SKcwZUAMqV45f71HFQNKxjboQXB__xc1fymV1wkVdVnIHj4eeDetJ_wjPYG5yU6YIxsxbB9v88-_xE17_m2NWJKysgt6TPV5OqtFe5wmTTILNArAEHjFy-A0d7n8wqor0gKqJb_VAYBiIOCgyWxhos_UpSB13EPdc.%26pg%3DTHKXVMBLLVBBRHPCXXYNQW746I%26ch%3DAQEAEAABABSxR9ZUNaoOLrUwwnE_vmL0XFitNVP1-NE.
+.netflix.com	TRUE	/	TRUE	1791550378	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQaSEsZpEZdqrC-ybMShEnVGkeIGdeNVLE.%26dt%3D1760014377925
+.netflix.com	TRUE	/	FALSE	1791550378	nfvdid	BQFmAAEBEF7PiIlImvuluk6nwQzZB0tgLbJYKNlzISPcM6ahZMpartNSC6GgDW0MHnXpXSCSaO502IKo8t1OhkWPwMtg9LfjLG6W-XvQ28Y96e0cjfl1LHa6a7buTakuxmSrb0FXZ_VW382l6F4-yCp9FYqcR-2N
+.netflix.com	TRUE	/	FALSE	1791550549	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+09+2025+09%3A55%3A49+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9dcdccb-0c1e-4700-bb44-1f9a33ab15da&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794574550	dsca	true
